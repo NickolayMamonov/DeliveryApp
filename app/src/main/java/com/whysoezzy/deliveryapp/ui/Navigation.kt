@@ -8,9 +8,9 @@ import androidx.navigation.compose.composable
 
 
 import androidx.navigation.compose.rememberNavController
-import com.whysoezzy.deliveryapp.ui.screens.AuthScreen
-import com.whysoezzy.deliveryapp.ui.screens.FoodScreen
-import com.whysoezzy.deliveryapp.ui.screens.HomeScreen
+import com.whysoezzy.deliveryapp.ui.screens.auth.AuthScreen
+import com.whysoezzy.deliveryapp.ui.screens.food.FoodScreen
+import com.whysoezzy.deliveryapp.ui.screens.home.HomeScreen
 
 @Composable
 fun Navigation(){

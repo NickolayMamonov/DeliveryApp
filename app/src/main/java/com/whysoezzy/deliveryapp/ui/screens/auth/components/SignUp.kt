@@ -1,4 +1,4 @@
-package com.whysoezzy.deliveryapp.ui.components
+package com.whysoezzy.deliveryapp.ui.screens.auth.components
 
 import android.content.SharedPreferences
 import androidx.compose.foundation.clickable

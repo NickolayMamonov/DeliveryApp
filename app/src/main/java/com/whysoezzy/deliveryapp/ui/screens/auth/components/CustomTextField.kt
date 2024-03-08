@@ -1,6 +1,6 @@
 @file:OptIn(ExperimentalMaterial3Api::class)
 
-package com.whysoezzy.deliveryapp.ui.components
+package com.whysoezzy.deliveryapp.ui.screens.auth.components
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column

@@ -1,4 +1,4 @@
-package com.whysoezzy.deliveryapp.ui.screens
+package com.whysoezzy.deliveryapp.ui.screens.auth
 
 import android.content.Context
 import androidx.compose.foundation.layout.Arrangement
@@ -13,9 +13,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.whysoezzy.deliveryapp.ui.components.SignIn
-import com.whysoezzy.deliveryapp.ui.components.SignUp
-import com.whysoezzy.deliveryapp.ui.components.TabLayout
+import com.whysoezzy.deliveryapp.ui.screens.auth.components.SignIn
+import com.whysoezzy.deliveryapp.ui.screens.auth.components.SignUp
+import com.whysoezzy.deliveryapp.ui.screens.auth.components.TabLayout
 
 
 @Composable
